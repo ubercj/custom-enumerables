@@ -25,22 +25,22 @@ end
 
 # more test scripts
 
-arr = [10, 20, 30, 34]
+# arr = [10, 20, 30, 34]
 
-puts "============ #count =============="
+# puts "============ #count =============="
 
-puts "arr.count"
-puts arr.count
-puts "arr.count(20)"
-puts arr.count(20)
-puts "arr.count { |num| num % 10 == 0 }"
-puts arr.count { |num| num % 10 == 0 }
+# puts "arr.count"
+# puts arr.count
+# puts "arr.count(20)"
+# puts arr.count(20)
+# puts "arr.count { |num| num % 10 == 0 }"
+# puts arr.count { |num| num % 10 == 0 }
 
-puts "============== #my_count =============="
+# puts "============== #my_count =============="
 
-puts "arr.my_count"
-puts arr.my_count
-puts "arr.my_count(20)"
-puts arr.my_count(20)
-puts "arr.my_count { |num| num % 10 == 0 }"
-puts arr.my_count { |num| num % 10 == 0 }
+# puts "arr.my_count"
+# puts arr.my_count
+# puts "arr.my_count(20)"
+# puts arr.my_count(20)
+# puts "arr.my_count { |num| num % 10 == 0 }"
+# puts arr.my_count { |num| num % 10 == 0 }
