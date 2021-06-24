@@ -8,3 +8,11 @@ module Enumerable
     end
   end
 end
+
+# more test scripts
+
+# arr = [1, 2, 3]
+# puts "#each"
+# arr.each { |num| puts "#{num} times 3 is #{num*3}" }
+# puts "#my_each"
+# arr.my_each { |num| puts "#{num} times 3 is #{num*3}" }

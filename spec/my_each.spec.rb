@@ -1,4 +1,4 @@
-require '../src/my_each'
+require_relative '../src/my_each'
 
 describe "yields" do
   specify { expect { |b| [1,2,3].my_each(&b) }.to yield_control }

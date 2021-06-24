@@ -1,4 +1,4 @@
-require '../src/my_each_with_index'
+require_relative '../src/my_each_with_index'
 
 describe "yields" do
   it "yields as expected" do

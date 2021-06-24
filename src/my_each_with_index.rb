@@ -8,3 +8,11 @@ module Enumerable
     end
   end
 end
+
+# more test scripts
+
+# arr = ["bulbasaur", "charmander", "squirtle"]
+# puts "#each_with_index"
+# arr.each_with_index { |poke, idx| puts "##{idx} - #{poke}" }
+# puts "#my_each_with_index"
+# arr.my_each_with_index { |poke, idx| puts "##{idx} - #{poke}" }
